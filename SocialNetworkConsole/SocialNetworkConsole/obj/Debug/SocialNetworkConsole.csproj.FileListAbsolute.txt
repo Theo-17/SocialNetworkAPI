@@ -1,0 +1,7 @@
+C:\Users\sebas\Desktop\UNIVERSIDAD\WORK\Cshar\SocialNetworkConsole\SocialNetworkConsole\obj\Debug\SocialNetworkConsole.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\UNIVERSIDAD\WORK\Cshar\SocialNetworkConsole\SocialNetworkConsole\obj\Debug\SocialNetworkConsole.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\UNIVERSIDAD\WORK\Cshar\SocialNetworkConsole\SocialNetworkConsole\bin\Debug\SocialNetworkConsole.exe.config
+C:\Users\sebas\Desktop\UNIVERSIDAD\WORK\Cshar\SocialNetworkConsole\SocialNetworkConsole\bin\Debug\SocialNetworkConsole.exe
+C:\Users\sebas\Desktop\UNIVERSIDAD\WORK\Cshar\SocialNetworkConsole\SocialNetworkConsole\bin\Debug\SocialNetworkConsole.pdb
+C:\Users\sebas\Desktop\UNIVERSIDAD\WORK\Cshar\SocialNetworkConsole\SocialNetworkConsole\obj\Debug\SocialNetworkConsole.exe
+C:\Users\sebas\Desktop\UNIVERSIDAD\WORK\Cshar\SocialNetworkConsole\SocialNetworkConsole\obj\Debug\SocialNetworkConsole.pdb

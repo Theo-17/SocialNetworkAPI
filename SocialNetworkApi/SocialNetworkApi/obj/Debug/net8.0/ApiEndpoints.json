@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "SocialNetworkAPI.API.Controllers.UserController",
+    "Method": "GetDashboard",
+    "RelativePath": "api/Controlador/dashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SocialNetworkAPI.API.Controllers.UserController",
+    "Method": "FollowUser",
+    "RelativePath": "api/Controlador/follow",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "followerUsername",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "followeeUsername",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SocialNetworkAPI.API.Controllers.UserController",
+    "Method": "PostMessage",
+    "RelativePath": "api/Controlador/post",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "request",
+        "Type": "SocialNetworkAPI.API.Models.PostRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
